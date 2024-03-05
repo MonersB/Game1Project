@@ -1282,7 +1282,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc2bfba6583e6e945948586ddc4745a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerContainer: {fileID: 0}
+  playerContainer: {fileID: 562348333}
   cameraContainer: {fileID: 59644544}
   speed: 6
   jumpSpeed: 10
